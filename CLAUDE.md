@@ -1,27 +1,3 @@
-# CLAUDE.md — General Purpose Template
-# ────────────────────────────────────
-# A research-backed, production-tested CLAUDE.md template.
-# Works with Claude Code, and is compatible with AGENTS.md
-# (Cursor, Zed, OpenCode, Codex).
-#
-# HOW TO USE:
-# 1. Replace placeholder sections (marked <!-- ... -->) with your project info
-# 2. Delete any section that doesn't apply — shorter is better
-# 3. Create the companion docs/ files referenced below
-# 4. Commit to version control so your whole team benefits
-#
-# DESIGN PRINCIPLES (why it's structured this way):
-# • Under 60 lines of actual instructions — Claude's system prompt
-#   already contains ~50 instructions, and models reliably follow
-#   only ~150-200 total. Every line here competes with your actual work.
-# • Progressive disclosure — detailed context lives in separate docs/
-#   files that Claude reads on-demand, not on every session.
-# • "Do Not" items always provide a safe alternative — telling Claude
-#   "never do X" without an alternative causes it to get stuck.
-# • Universally applicable only — if a rule only matters sometimes,
-#   move it to a docs/ file, a skill, or a subdirectory CLAUDE.md.
-# ────────────────────────────────────
-
 # Project: <!-- Your Project Name -->
 
 <!-- One-liner: what is this project and what stack does it use? -->
