@@ -46,6 +46,7 @@ npm run lint         # Lint + format
 - **Root Causes**: Fix the real issue; never apply band-aid patches.
 - **Minimal Blast Radius**: Only touch files relevant to the current task.
 - **Autonomy**: Given a bug report, trace the error, find the cause, fix it. Ask the user only when truly blocked — and when you do, ask one question with a recommended default.
+- **Laws Of UX**: When you implement a new feature, please make sure to follow the laws in the ux-laws.md file.
 
 ## Compaction
 When compacting, always preserve: the list of modified files, current `tasks/todo.md` state, any failing tests, and the active plan.
