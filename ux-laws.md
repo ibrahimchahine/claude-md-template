@@ -20,3 +20,10 @@ Apply these psychological heuristics to all frontend development, UI design, and
 ## 4. Complexity Management
 * **Tesler’s Law:** Do not eliminate complexity—shift it to the system. Use smart defaults, auto-fills, and predictive logic to reduce the amount of manual input required from the user.
 * **Miller’s Law:** Organize content into small "chunks" (groups of 5-9 items). Use white space to visually separate distinct categories of information.
+
+
+attribution: 
+Title: The name of the law (e.g., "Hick's Law").
+Author: Jon Yablonski/Laws of UX.
+Source: Link to the specific law page (e.g., lawsofux.com).
+License: CC BY-NC-ND 4.0 (with a link to the license deed). 
