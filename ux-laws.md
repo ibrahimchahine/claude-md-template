@@ -23,7 +23,6 @@ Apply these psychological heuristics to all frontend development, UI design, and
 
 
 attribution: 
-Title: The name of the law (e.g., "Hick's Law").
 Author: Jon Yablonski/Laws of UX.
 Source: Link to the specific law page (e.g., lawsofux.com).
 License: CC BY-NC-ND 4.0 (with a link to the license deed). 
